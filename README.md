@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=solunska.solunska&left_color=dimgrey&right_color=darkslategrey"  />
 </br>
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=8FB8B1&center=true&vCenter=true&multiline=true&repeat=false&width=105&height=40&lines=Hi+there!+" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=8FB8B1&center=true&vCenter=true&multiline=true&repeat=false&width=105&height=40&lines=Hi+there!+" alt="Typing SVG" />
    </a>
 </div>
  <hr/>
@@ -45,11 +45,8 @@
 <hr/>
 
 <div align="center">
-  <p>🐍 My Contributions 🐍</p>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+   <p>🐍 My Contributions 🐍</p>
+  <img src="https://github.com/Solunska/Solunska/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
-
-
-
 
 
