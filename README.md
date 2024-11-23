@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a personal finance tracker**
  
- 🌱 I’m currently learning **Node.js**
+ 🌱 I’m currently learning **Node.js** and **Spring Boot**
 
  </div>
  
