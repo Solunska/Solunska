@@ -6,15 +6,7 @@
    </a>
 </div>
  <hr/>
-<h3 align="center">A passionate Web Developer</h3>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a personal finance tracker**
- 
- 🌱 I’m currently learning **Node.js** and **Spring Boot**
-
- </div>
+<h3 align="center">Software Engineer</h3>
  
 <div align="center"> 
   <a href="mailto:a_solunska@outlook.com">
